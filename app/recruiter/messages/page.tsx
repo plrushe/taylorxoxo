@@ -1,0 +1,1 @@
+import { DashboardShell } from '@/components/nav';import { PageHeader } from '@/components/ui';export default function Page(){return <DashboardShell role="recruiter"><PageHeader title="Recruiter messages" description="Chats open automatically after whitelist."/></DashboardShell>}

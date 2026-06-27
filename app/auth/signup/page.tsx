@@ -1,0 +1,1 @@
+import { PublicNavbar } from '@/components/nav';import { AuthForm } from '@/components/auth';export default function Page(){return <><PublicNavbar/><main className="p-8"><AuthForm mode="signup"/></main></>}
