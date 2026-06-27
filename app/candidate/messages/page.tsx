@@ -1,0 +1,1 @@
+import { DashboardShell } from '@/components/nav';import { PageHeader } from '@/components/ui';export default function Page(){return <DashboardShell role="candidate"><PageHeader title="Messages" description="Whitelisted application conversations appear here."/></DashboardShell>}
